@@ -188,11 +188,11 @@
             "[resourceId('Microsoft.Web/sites', parameters('webSiteName'))]"
           ],
           "tags": {
-            "displayName": "ASPNETCORE_ENVIRONMENT"
+            "displayName": "ApplicationSettings"
           },
           "properties": {
-            "key1": "value1",
-            "key2": "value2"
+            "ASPNETCORE_ENVIRONMENT": "Development",
+            "FooKey": "BarValue"
           }
         }
       ]
