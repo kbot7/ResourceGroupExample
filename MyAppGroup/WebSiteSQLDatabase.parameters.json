@@ -11,6 +11,12 @@
     "databaseName": {
       "value": "MyDb"
     },
+    "sqlserverName": {
+      "value": "MyServer"
+    },
+    "webSiteName": {
+      "value": "MyWebApp"
+    },
     "skuName": {
       "value": "B2"
     }
