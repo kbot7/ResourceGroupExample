@@ -191,8 +191,7 @@
             "displayName": "ApplicationSettings"
           },
           "properties": {
-            "ASPNETCORE_ENVIRONMENT": "Development",
-            "FooKey": "BarValue"
+            "ASPNETCORE_ENVIRONMENT": "Development"
           }
         }
       ]
